@@ -1,4 +1,4 @@
-# docker-php-8.2-apache
+# docker + php-8.2 + nodejs + apache + laravel init
 PHP 8.2 apache / Laravel
 
 ### 1. prepare
