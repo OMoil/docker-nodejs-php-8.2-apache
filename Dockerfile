@@ -102,5 +102,4 @@ WORKDIR /var/www
 
 COPY start.sh /
 RUN chmod +x /start.sh
-RUN chmod 0775 /var/www/project/storage/ -R
 CMD ["/start.sh"]
